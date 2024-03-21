@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = KompreseObrazu
-build_property.ProjectDir = C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\Programování\PG\Komprese-obrazu\KompreseObrazu\
+build_property.ProjectDir = C:\Users\FilipVavrečka\github-classroom\Vitkovicka-stredni-prumyslova-skola\cv-komprese-obrazu-v2-FilipVavrecka\KompreseObrazu\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

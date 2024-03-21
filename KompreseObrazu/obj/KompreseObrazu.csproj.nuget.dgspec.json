@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MartinKapcala\\OneDrive - Vítkovická střední průmyslová škola\\Dokumenty\\Programování\\PG\\Komprese-obrazu\\KompreseObrazu\\KompreseObrazu.csproj": {}
+    "C:\\Users\\FilipVavrečka\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\cv-komprese-obrazu-v2-FilipVavrecka\\KompreseObrazu\\KompreseObrazu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MartinKapcala\\OneDrive - Vítkovická střední průmyslová škola\\Dokumenty\\Programování\\PG\\Komprese-obrazu\\KompreseObrazu\\KompreseObrazu.csproj": {
+    "C:\\Users\\FilipVavrečka\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\cv-komprese-obrazu-v2-FilipVavrecka\\KompreseObrazu\\KompreseObrazu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MartinKapcala\\OneDrive - Vítkovická střední průmyslová škola\\Dokumenty\\Programování\\PG\\Komprese-obrazu\\KompreseObrazu\\KompreseObrazu.csproj",
+        "projectUniqueName": "C:\\Users\\FilipVavrečka\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\cv-komprese-obrazu-v2-FilipVavrecka\\KompreseObrazu\\KompreseObrazu.csproj",
         "projectName": "KompreseObrazu",
-        "projectPath": "C:\\Users\\MartinKapcala\\OneDrive - Vítkovická střední průmyslová škola\\Dokumenty\\Programování\\PG\\Komprese-obrazu\\KompreseObrazu\\KompreseObrazu.csproj",
-        "packagesPath": "C:\\Users\\MartinKapcala\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MartinKapcala\\OneDrive - Vítkovická střední průmyslová škola\\Dokumenty\\Programování\\PG\\Komprese-obrazu\\KompreseObrazu\\obj\\",
+        "projectPath": "C:\\Users\\FilipVavrečka\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\cv-komprese-obrazu-v2-FilipVavrecka\\KompreseObrazu\\KompreseObrazu.csproj",
+        "packagesPath": "C:\\Users\\FilipVavrečka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FilipVavrečka\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\cv-komprese-obrazu-v2-FilipVavrecka\\KompreseObrazu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MartinKapcala\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\FilipVavrečka\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
